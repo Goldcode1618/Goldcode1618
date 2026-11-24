@@ -30,5 +30,5 @@ Lead Architect of the **PRISM** (*Prototype, Research and Integration of System 
 
 ---
 
-- **Contact:** `2503025001@uhamka.ac.id`
+- **ORCID & Contact:** [`0009-0001-0120-5791`](https://orcid.org/0009-0001-0120-5791) | GitHub (`148626742+Goldcode1618@users.noreply.github.com`)
 - **License Default:** Apache License 2.0 (Open Science & Hardware Research)
